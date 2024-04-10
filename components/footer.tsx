@@ -3,7 +3,7 @@ export default function Footer() {
         <footer className="mt-5  p-3 border-gray-400 shadow-large bg-neutral-300 dark:bg-neutral-900">
             <div className="max-w-6xl mx-auto px-4 ">
                 <div className="flex  flex-col items-center gap-6">
-                    <div className="flex space-x-6">
+                    <div className="flex space-x-6 w-4/5 flex-wrap items-center justify-center">
                         <a className="text-gray-600 hover:text-gray-900 transition-colors dark:text-neutral-50" href="#">
                             About
                         </a>

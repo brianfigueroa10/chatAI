@@ -9,7 +9,7 @@ export default function Hero() {
                         <span className="text-3xl font-extrabold tracking-tighter sm:text-5xl text-black dark:text-white">Interacción Avanzada con IA
                         </span>
                     </h1>
-                        <p className="max-w-[800px] text-gray-500 md:text-xl dark:text-gray-400 backgconf">
+                        <p className="md:w-[800px] w-3/5 text-gray-500 md:text-xl dark:text-gray-400 backgconf">
                             Descubre el futuro de las conversaciones en línea con nuestro Chat Inteligente. Conecta, interactúa y colabora de manera eficiente gracias a nuestra tecnología de inteligencia artificial. Desarrollado con Next.js y la API de OpenAI GPT a través del Vercel AI SDK, nuestro chat basado en GPT-3.5 está listo para responder cualquier pregunta. ¡Bienvenido a la nueva era de la comunicación!
                         </p>
                     </div>

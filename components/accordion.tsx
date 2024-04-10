@@ -17,7 +17,7 @@ export default function AccordionExpand() {
                     Informacion
                 </h2>
             </div>
-            <div className='border-gray-300  bg-transparent w-[600px] flex flex-col items-center justify-center mt-8'>
+            <div className='border-gray-300  bg-transparent w-4/5 md:w-[600px] flex flex-col items-center justify-center mt-8'>
 
      
             <Accordion className=' bg-neutral-100 dark:bg-neutral-600 dark:text-neutral-100'>

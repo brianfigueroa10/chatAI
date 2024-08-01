@@ -42,3 +42,8 @@ ChatIA es una landing page que presenta una inteligencia artificial con la que l
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, por favor sigue estos pasos
+1. **Fork este repositorio.**
+2. **Crea una rama con tu nueva característica (`git checkout -b feature/nueva-caracteristica`).**
+3. **Haz commit de tus cambios (`git commit -m 'Agrega nueva característica'`).**
+4. **Push a la rama (`git push origin feature/nueva-caracteristica`).**
+5. **Abre un Pull Request.**

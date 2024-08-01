@@ -17,7 +17,7 @@ ChatIA es una landing page que presenta una inteligencia artificial con la que l
 1. **Clonar el repositorio:**
 
     ```bash
-    git clone https://github.com/tuusuario/ChatIA.git
+    git clone https://github.com/brianfigueroa10/chatAI.git
     ```
 
 2. **Instalar las dependencias:**
